@@ -1,0 +1,638 @@
+Brand,Model,Submodel,Tyre Brand,Serial No.,Type,Load Index,Size,Selling Price,Original Price,Rating
+Maruti,Celerio X,Vxi AGS (O),CEAT,FuelSmart,1,81,165/70 R 14,"3,142","3,142",4.5
+Maruti,Celerio X,Zxi,CEAT,FuelSmart,1,81,165/70 R 14,"3,142","3,142",4.5
+Maruti,Celerio X,Zxi AGS,CEAT,FuelSmart,1,81,165/70 R 14,"3,142","3,142",4.5
+Maruti,Celerio X,Zxi AGS (O),CEAT,FuelSmart,1,81,165/70 R 14,"3,142","3,142",4.5
+Maruti,Celerio X,Zxi Optional,CEAT,FuelSmart,1,81,165/70 R 14,"3,142","3,142",4.5
+Maruti,Celerio X,Vxi,Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Vxi,Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Vxi (O),Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Vxi AGS,Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Zxi,Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Zxi AGS,Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Zxi Optional,Continental,ContiComfort Contact CC5,1,81,165/70 R 14,"3,482","3,999",4.29759786476869
+Maruti,Celerio X,Vxi (O),Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Vxi AGS,Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Zxi,Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Zxi AGS,Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Zxi Optional,Continental,Comfort Contact CC6,1,81,165/70 R 14,"3,870","3,870",4.29759786476869
+Maruti,Celerio X,Vxi,Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Vxi (O),Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Vxi AGS,Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Zxi,Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Zxi AGS,Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Zxi Optional,Falken,Sincera835,1,81,165/70 R 14,"2,785","2,785",4.29759786476869
+Maruti,Celerio X,Vxi,Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Vxi (O),Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Vxi AGS,Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Zxi,Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Zxi AGS,Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Zxi Optional,Firestone,FR500,1,81,165/70 R 14,"2,945","2,945",4.29759786476869
+Maruti,Celerio X,Vxi,GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Vxi,GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Vxi (O),GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Vxi AGS,GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Vxi AGS (O),GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Zxi,GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Zxi AGS,GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Zxi AGS (O),GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Zxi Optional,GoodYear,Duraplus DP-M1,1,81,165/70 R 14,"3,048","3,048",5.0
+Maruti,Celerio X,Vxi (O),GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Vxi AGS,GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Zxi,GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Zxi AGS,GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Zxi Optional,GoodYear,Assurance Triplemax,1,81,165/70 R 14,"3,140","3,140",4.29759786476869
+Maruti,Celerio X,Vxi,Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Vxi (O),Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Vxi AGS,Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Vxi AGS (O),Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Zxi,Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Zxi AGS,Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Zxi AGS (O),Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Zxi Optional,Michelin,Energy XM2,1,81,165/70 R 14,"4,376","4,376",4.29759786476869
+Maruti,Celerio X,Vxi,UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Vxi (O),UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Vxi AGS,UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Vxi AGS (O),UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Zxi,UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Zxi AGS,UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Zxi AGS (O),UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Zxi Optional,UltraMile,UM 551,1,88,165/70 R 14,"3,584","3,584",5.0
+Maruti,Celerio X,Vxi,Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Vxi (O),Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Vxi AGS,Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Vxi AGS (O),Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Zxi,Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Zxi AGS,Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Zxi AGS (O),Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Celerio X,Zxi Optional,Yokohama,Earth-1 E400,1,81,165/70 R 14,"3,527","3,527",4.0
+Maruti,Dzire,VDi AMT,Apollo,Amazer 4G Life,1,85,165/80 R 14,"3,490","4,319",4.5
+Maruti,Dzire,ZDi + AMT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZDi + AMT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZDi+ MT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZDi+ MT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZDi + AMT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZDi + AMT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZDi+ MT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZDi+ MT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZXi AMT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZXi AMT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZXi MT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZXi MT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZXi+ AMT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZXi+ AMT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZXi+ MT,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,Dzire,ZXi+ MT,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,Dzire,ZDi + AMT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZDi + AMT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZDi + AMT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZDi + AMT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZDi+ MT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZDi + AMT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZDi+ MT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZXi AMT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZXi MT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZXi+ AMT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZXi+ MT,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,Dzire,ZDi+ MT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZDi + AMT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZDi+ MT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZXi AMT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZXi MT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZXi+ AMT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZXi+ MT,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,Dzire,ZDi+ MT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZDi + AMT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZDi+ MT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZXi AMT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZXi MT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZXi+ AMT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZXi+ MT,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,Dzire,ZDi+ MT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZDi + AMT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZDi+ MT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZXi AMT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZXi MT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,ZXi+ MT,BridgeStone,B-Series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,Dzire,VDi AMT,BridgeStone,Ecopia EP150,1,85,165/80 R 14,"4,150","4,150",5.0
+Maruti,Dzire,VDi AMT,BridgeStone,B-Series B290,1,85,165/80 R 14,"4,250","4,250",3.7
+Maruti,Dzire,VDi AMT,BridgeStone,Turanza T005,1,85,165/80 R 14,"4,272","4,272",3.8
+Maruti,Dzire,VDi AMT,BridgeStone,S-Series S248,1,85,165/80 R 14,"4,300","4,300",5.0
+Maruti,Dzire,VDi AMT,CEAT,Milage X3,1,85,165/80 R 14,"3,406","3,406",4.0
+Maruti,Dzire,VDi AMT,CEAT,FuelSmart,1,85,165/80 R 14,"3,617","3,617",4.6
+Maruti,Dzire,VDi AMT,CEAT,Milage X3,0,85,165/80 R 14,"3,637","3,637",5.0
+Maruti,Dzire,ZDi + AMT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZDi + AMT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZDi + AMT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZDi+ MT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZDi + AMT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZDi+ MT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZXi AMT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZXi MT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZXi+ AMT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZXi+ MT,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,Dzire,ZDi+ MT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZDi + AMT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZDi+ MT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZXi AMT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZXi MT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZXi+ MT,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,Dzire,ZDi+ MT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZDi + AMT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZDi+ MT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZXi AMT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZXi MT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZXi+ AMT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZXi+ MT,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,Dzire,ZDi + AMT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZXi AMT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZXi MT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,Dzire,VDi AMT,Continental,Comfort Contact CC5,1,85,165/80 R 14,"4,086","4,086",3.9
+Maruti,Dzire,VDi AMT,Continental,Comfort Contact CC6,1,85,165/80 R 14,"4,244","4,244",4.29759786476869
+Maruti,Dzire,VDi AMT,Falken,Sincera845,1,85,165/80 R 14,"4,184","4,184",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZXi AMT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZXi MT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZXi AMT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZXi MT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZXi AMT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZXi MT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,Dzire,VDi AMT,Firestone,FR500,1,85,165/80 R 14,"3,135","3,135",4.29759786476869
+Maruti,Dzire,VDi AMT,GoodYear,Assurance Duraplus 2,1,85,165/80 R 14,"3,025","3,025",4.2
+Maruti,Dzire,VDi AMT,GoodYear,Duraplus,1,85,165/80 R 14,"3,423","3,423",3.0
+Maruti,Dzire,VDi AMT,GoodYear,Assurance Duraplus,1,85,165/80 R 14,"3,464","3,464",4.29759786476869
+Maruti,Dzire,ZDi + AMT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZDi + AMT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZDi+ MT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZDi + AMT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZDi+ MT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZXi AMT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZXi MT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZXi+ AMT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZXi+ MT,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,Dzire,ZDi+ MT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZDi + AMT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZDi+ MT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZXi AMT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZXi MT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZXi+ AMT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZXi+ MT,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,Dzire,ZDi + AMT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZDi+ MT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZDi + AMT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZDi+ MT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZXi AMT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZXi MT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,ZXi+ MT,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,Dzire,VDi AMT,JKTyre,Tornado,1,85,165/80 R 14,"3,227","3,227",4.29759786476869
+Maruti,Dzire,VDi AMT,JKTyre,Taximaxx,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Dzire,VDi AMT,JKTyre,Elanzo Touring,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Dzire,VDi AMT,JKTyre,UX Royale,1,85,165/80 R 14,"3,420","3,420",4.29759786476869
+Maruti,Dzire,VDi AMT,MRF,ZTX,1,85,165/80 R 14,"3,995","3,995",5.0
+Maruti,Dzire,VDi AMT,MRF,ZV2K,1,85,165/80 R 14,"4,014","4,014",4.0
+Maruti,Dzire,VDi AMT,MRF,ZLX,1,85,165/80 R 14,"4,038","4,038",4.0
+Maruti,Dzire,ZDi + AMT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZDi+ MT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZDi + AMT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZDi+ MT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZXi AMT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZXi MT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZXi+ AMT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZXi+ MT,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,Dzire,ZDi + AMT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZDi+ MT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZDi + AMT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZDi+ MT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZXi AMT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZXi MT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,ZXi+ MT,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,Dzire,VDi AMT,UltraMile,UM 551,1,85,165/80 R 14,"4,045","4,045",3.0
+Maruti,Dzire,VDi AMT,Yokohama,Earth-1 E400,1,85,165/80 R 14,"3,904","3,904",3.0
+Maruti,Dzire,ZDi + AMT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZDi + AMT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZDi + AMT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZDi + AMT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZDi+ MT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZXi AMT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZXi MT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZXi+ AMT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZXi+ MT,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,Dzire,ZDi+ MT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZDi + AMT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZDi+ MT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZXi AMT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZXi MT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZXi+ AMT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZXi+ MT,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,Dzire,ZDi+ MT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZXi AMT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZXi MT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZXi AMT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZXi MT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZDi+ MT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZDi + AMT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZDi+ MT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZXi AMT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZXi MT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZXi+ AMT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZXi+ MT,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,Dzire,ZDi + AMT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZDi + AMT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZDi+ MT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZXi AMT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZXi MT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZXi+ AMT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Dzire,ZXi+ MT,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Fronx,Diesel,Apollo,Ainac 4G,1,87,195/55 R 16,"6,824","6,824",1.9
+Maruti,Fronx,Diesel,Apollo,Ainac 4G,1,87,195/55 R 16,"7,315","7,315",4.0
+Maruti,Fronx,Petrol,Apollo,Ainac 4G,1,87,195/55 R 16,"6,824","6,824",1.9
+Maruti,Fronx,Petrol,Apollo,Ainac 4G,1,87,195/55 R 16,"7,315","7,315",4.0
+Maruti,Fronx,Petrol,BridgeStone,B-Series B250,1,87,195/55 R 16,"8,000","8,000",2.8
+Maruti,Fronx,Petrol,BridgeStone,Ecopia EP150,1,87,195/55 R 16,"8,250","8,250",4.8
+Maruti,Fronx,Petrol,BridgeStone,B-Series B290,1,87,195/55 R 16,"8,350","8,350",4.29759786476869
+Maruti,Fronx,Diesel,BridgeStone,B-Series B250,1,87,195/55 R 16,"8,000","8,000",2.8
+Maruti,Fronx,Diesel,BridgeStone,Ecopia EP150,1,87,195/55 R 16,"8,250","8,250",4.8
+Maruti,Fronx,Diesel,BridgeStone,B-Series B290,1,87,195/55 R 16,"8,350","8,350",4.29759786476869
+Maruti,Fronx,Diesel,CEAT,SecuraDrive,1,87,195/55 R 16,"5,853","5,853",5.0
+Maruti,Fronx,Petrol,CEAT,SecuraDrive,1,87,195/55 R 16,"5,853","5,853",5.0
+Maruti,Fronx,Petrol,Continental,ContiMax Contact MC5,1,87,195/55 R 16,"7,921","7,921",4.29759786476869
+Maruti,Fronx,Petrol,Continental,UltraContact UC6,1,87,195/55 R 16,"8,373","9,262",4.29759786476869
+Maruti,Fronx,Diesel,Continental,ContiMax Contact MC5,1,87,195/55 R 16,"7,921","7,921",4.29759786476869
+Maruti,Fronx,Diesel,Continental,UltraContact UC6,1,87,195/55 R 16,"8,373","9,262",4.29759786476869
+Maruti,Fronx,Petrol,Falken,Sincera835,1,87,195/55 R 16,"6,887","6,887",4.29759786476869
+Maruti,Fronx,Petrol,Falken,Ziex ZE914 EcoRun,1,87,195/55 R 16,"7,181","7,181",4.29759786476869
+Maruti,Fronx,Diesel,Falken,Sincera835,1,87,195/55 R 16,"6,887","6,887",4.29759786476869
+Maruti,Fronx,Diesel,Falken,Ziex ZE914 EcoRun,1,87,195/55 R 16,"7,181","7,181",4.29759786476869
+Maruti,Fronx,Diesel,GoodYear,Assurance Triplemax,1,87,195/55 R 16,"7,220","7,220",4.7
+Maruti,Fronx,Petrol,GoodYear,Assurance Triplemax,1,87,195/55 R 16,"7,220","7,220",4.7
+Maruti,Fronx,Petrol,JKTyre,UX Royale,1,87,195/55 R 16,"6,763","6,763",4.29759786476869
+Maruti,Fronx,Diesel,JKTyre,UX Royale,1,87,195/55 R 16,"6,763","6,763",4.29759786476869
+Maruti,Fronx,Petrol,Michelin,Primacy 4ST,1,91,195/55 R 16,"9,292","9,292",3.8
+Maruti,Fronx,Diesel,Michelin,Primacy 4ST,1,91,195/55 R 16,"9,292","9,292",3.8
+Maruti,Fronx,Petrol,Pirelli,Cinturato P1 Verde,1,87,195/55 R 16,"9,088","9,088",5.0
+Maruti,Fronx,Diesel,Pirelli,Cinturato P1 Verde,1,87,195/55 R 16,"9,088","9,088",5.0
+Maruti,Ciaz,Petrol,Yokohama,Earth-1 E400,1,87,195/55 R 16,"7,566","7,566",4.7
+Maruti,Fronx,Petrol,Yokohama,BluEarth-GT AE51,1,87,195/55 R 16,"7,837","7,837",4.29759786476869
+Maruti,Fronx,Petrol,Yokohama,S.Drive AS01,1,85,195/55 R 16,"7,866","7,866",4.0
+Maruti,Fronx,Petrol,Yokohama,BluEarth AE50,1,87,195/55 R 16,"8,194","8,194",4.0
+Maruti,Fronx,Diesel,Yokohama,Earth-1 E400,1,87,195/55 R 16,"7,566","7,566",4.7
+Maruti,Fronx,Diesel,Yokohama,BluEarth-GT AE51,1,87,195/55 R 16,"7,837","7,837",4.29759786476869
+Maruti,Fronx,Diesel,Yokohama,S.Drive AS01,1,85,195/55 R 16,"7,866","7,866",4.0
+Maruti,Fronx,Diesel,Yokohama,BluEarth AE50,1,87,195/55 R 16,"8,194","8,194",4.0
+Maruti,Grand Vitara 2003-2007 XI,7 At,Yokohama,Geolandar G92C,1,101,225/70 R 16,"10,471","10,471",4.29759786476869
+Maruti,Grand Vitara 2003-2007 XI,7 Mt,Yokohama,Geolandar G92C,1,102,225/70 R 17,"10,472","10,472",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,Apollo,Amazer 4G Life,1,85,165/80 R 14,"3,490","4,319",4.5
+Maruti,New Swift (2018),Vxi AGS,Apollo,Amazer 4G Life,1,85,165/80 R 14,"3,490","4,319",4.5
+Maruti,New Swift (2018),Diesel ZDi +,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),Diesel ZDi +,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),ZDi + AGS,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),ZDi AGS,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),Zxi + AGS,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),ZXi AGS,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),ZXI+,Apollo,Ainac 4GS,1,88,185/65 R 15,"5,359","5,359",5.0
+Maruti,New Swift (2018),ZDi + AGS,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),ZDi AGS,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),Zxi + AGS,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),ZXi AGS,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),ZXI+,Apollo,Amazer 4G Life,1,88,185/65 R 15,"5,429","5,429",4.0
+Maruti,New Swift (2018),Diesel ZDi +,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),Diesel ZDi +,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),Diesel ZDi +,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),ZDi + AGS,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),ZDi AGS,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),Zxi + AGS,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),ZXi AGS,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),ZXI+,BridgeStone,B-Series B290,1,88,185/65 R 15,"6,050","6,050",4.0
+Maruti,New Swift (2018),ZDi + AGS,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),ZDi AGS,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),Zxi + AGS,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),ZXi AGS,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),ZXI+,BridgeStone,Turanza T005,1,88,185/65 R 15,"6,111","6,111",3.0
+Maruti,New Swift (2018),ZDi + AGS,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),ZXI+,BridgeStone,B-series B250,1,88,185/65 R 15,"6,150","6,150",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),ZDi AGS,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),Zxi + AGS,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),ZXi AGS,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),ZXI+,BridgeStone,Ecopia EP150,1,88,185/65 R 15,"6,450","6,450",4.5
+Maruti,New Swift (2018),VDi AGS,BridgeStone,Ecopia EP150,1,85,165/80 R 14,"4,150","4,150",5.0
+Maruti,New Swift (2018),VDi AGS,BridgeStone,B-Series B290,1,85,165/80 R 14,"4,250","4,250",3.7
+Maruti,New Swift (2018),VDi AGS,BridgeStone,Turanza T005,1,85,165/80 R 14,"4,272","4,272",3.8
+Maruti,New Swift (2018),VDi AGS,BridgeStone,S-Series S248,1,85,165/80 R 14,"4,300","4,300",5.0
+Maruti,New Swift (2018),Vxi AGS,BridgeStone,Ecopia EP150,1,85,165/80 R 14,"4,150","4,150",5.0
+Maruti,New Swift (2018),Vxi AGS,BridgeStone,B-Series B290,1,85,165/80 R 14,"4,250","4,250",3.7
+Maruti,New Swift (2018),Vxi AGS,BridgeStone,Turanza T005,1,85,165/80 R 14,"4,272","4,272",3.8
+Maruti,New Swift (2018),Vxi AGS,BridgeStone,S-Series S248,1,85,165/80 R 14,"4,300","4,300",5.0
+Maruti,New Swift (2018),Vxi AGS,CEAT,Milage X3,1,85,165/80 R 14,"3,406","3,406",4.0
+Maruti,New Swift (2018),Vxi AGS,CEAT,FuelSmart,1,85,165/80 R 14,"3,617","3,617",4.6
+Maruti,New Swift (2018),Vxi AGS,CEAT,Milage X3,0,85,165/80 R 14,"3,637","3,637",5.0
+Maruti,New Swift (2018),VDi AGS,CEAT,Milage X3,1,85,165/80 R 14,"3,406","3,406",4.0
+Maruti,New Swift (2018),VDi AGS,CEAT,FuelSmart,1,85,165/80 R 14,"3,617","3,617",4.6
+Maruti,New Swift (2018),VDi AGS,CEAT,Milage X3,0,85,165/80 R 14,"3,637","3,637",5.0
+Maruti,New Swift (2018),Diesel ZDi +,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),Diesel ZDi +,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),ZDi + AGS,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),ZDi AGS,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),Zxi + AGS,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),ZXi AGS,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),ZXI+,CEAT,SecuraDrive,1,88,185/65 R 15,"4,377","4,377",5.0
+Maruti,New Swift (2018),ZDi + AGS,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),ZXI+,CEAT,Milage X3,1,88,185/65 R 15,"4,894","4,894",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),ZDi AGS,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),Zxi + AGS,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),ZXi AGS,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),ZXI+,CEAT,FuelSmart,1,88,185/65 R 15,"5,202","5,202",5.0
+Maruti,New Swift (2018),Diesel ZDi +,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Continental,Comfort Contact CC6,1,88,185/65 R 15,"5,699","5,699",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Continental,Ultra Contact UC6,1,88,185/65 R 15,"6,068","6,644",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,Continental,Comfort Contact CC5,1,85,165/80 R 14,"4,086","4,086",3.9
+Maruti,New Swift (2018),VDi AGS,Continental,Comfort Contact CC6,1,85,165/80 R 14,"4,244","4,244",4.29759786476869
+Maruti,New Swift (2018),Vxi AGS,Continental,Comfort Contact CC5,1,85,165/80 R 14,"4,086","4,086",3.9
+Maruti,New Swift (2018),Vxi AGS,Continental,Comfort Contact CC6,1,85,165/80 R 14,"4,244","4,244",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,Falken,Sincera845,1,85,165/80 R 14,"4,184","4,184",4.29759786476869
+Maruti,New Swift (2018),Vxi AGS,Falken,Sincera845,1,85,165/80 R 14,"4,184","4,184",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Falken,Sincera845,1,88,185/65 R 15,"5,526","5,526",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Falken,EcoRun ZE914,1,88,185/65 R 15,"5,609","5,609",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Firestone,FR500,1,88,185/65 R 15,"4,608","4,608",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,Firestone,FR500,1,85,165/80 R 14,"3,135","3,135",4.29759786476869
+Maruti,New Swift (2018),Vxi AGS,Firestone,FR500,1,85,165/80 R 14,"3,135","3,135",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,GoodYear,Assurance Duraplus 2,1,85,165/80 R 14,"3,025","3,025",4.2
+Maruti,New Swift (2018),VDi AGS,GoodYear,Duraplus,1,85,165/80 R 14,"3,423","3,423",3.0
+Maruti,New Swift (2018),VDi AGS,GoodYear,Assurance Duraplus,1,85,165/80 R 14,"3,464","3,464",4.29759786476869
+Maruti,New Swift (2018),Vxi AGS,GoodYear,Assurance Duraplus 2,1,85,165/80 R 14,"3,025","3,025",4.2
+Maruti,New Swift (2018),Vxi AGS,GoodYear,Duraplus,1,85,165/80 R 14,"3,423","3,423",3.0
+Maruti,New Swift (2018),Vxi AGS,GoodYear,Assurance Duraplus,1,85,165/80 R 14,"3,464","3,464",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),Diesel ZDi +,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),ZDi + AGS,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),ZDi AGS,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),Zxi + AGS,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),ZXi AGS,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),ZXI+,GoodYear,Assurance Triplemax,1,88,185/65 R 15,"4,724","4,724",5.0
+Maruti,New Swift (2018),ZDi + AGS,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),ZDi AGS,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),Zxi + AGS,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),ZXi AGS,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),ZXI+,GoodYear,Duraplus,1,88,185/65 R 15,"4,853","4,853",4.0
+Maruti,New Swift (2018),Diesel ZDi +,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),ZXI+,JKTyre,Taximaxx,1,88,185/65 R 15,"4,638","4,638",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,JKTyre,Tornado,1,85,165/80 R 14,"3,227","3,227",4.7
+Maruti,New Swift (2018),VDi AGS,JKTyre,Elanzo Touring,1,85,165/80 R 14,"3,385","3,385",4.8
+Maruti,New Swift (2018),VDi AGS,JKTyre,Taximaxx,1,85,165/80 R 14,"3,385","3,385",5.0
+Maruti,New Swift (2018),VDi AGS,JKTyre,UX Royale,1,85,165/80 R 14,"3,420","3,420",4.29759786476869
+Maruti,New Swift (2018),Vxi AGS,JKTyre,Tornado,1,85,165/80 R 14,"3,227","3,227",4.7
+Maruti,New Swift (2018),Vxi AGS,JKTyre,Elanzo Touring,1,85,165/80 R 14,"3,385","3,385",4.8
+Maruti,New Swift (2018),Vxi AGS,JKTyre,Taximaxx,1,85,165/80 R 14,"3,385","3,385",5.0
+Maruti,New Swift (2018),Vxi AGS,JKTyre,UX Royale,1,85,165/80 R 14,"3,420","3,420",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,MRF,ZTX,1,85,165/80 R 14,"3,995","3,995",5.0
+Maruti,New Swift (2018),VDi AGS,MRF,ZV2K,1,85,165/80 R 14,"4,014","4,014",4.0
+Maruti,New Swift (2018),VDi AGS,MRF,ZLX,1,85,165/80 R 14,"4,038","4,038",4.0
+Maruti,New Swift (2018),Vxi AGS,MRF,ZTX,1,85,165/80 R 14,"3,995","3,995",5.0
+Maruti,New Swift (2018),Vxi AGS,MRF,ZV2K,1,85,165/80 R 14,"4,014","4,014",4.0
+Maruti,New Swift (2018),Vxi AGS,MRF,ZLX,1,85,165/80 R 14,"4,038","4,038",4.0
+Maruti,New Swift (2018),Diesel ZDi +,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),ZDi + AGS,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),ZDi AGS,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),Zxi + AGS,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),ZXi AGS,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),ZXI+,MRF,ZVTV,1,88,185/65 R 15,"4,599","4,813",3.9
+Maruti,New Swift (2018),Diesel ZDi +,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),ZXI+,UltraMile,UM 551,1,88,185/65 R 15,"4,736","4,736",4.29759786476869
+Maruti,New Swift (2018),VDi AGS,UltraMile,UM 551,1,85,165/80 R 14,"4,045","4,045",3.0
+Maruti,New Swift (2018),Vxi AGS,UltraMile,UM 551,1,85,165/80 R 14,"4,045","4,045",3.0
+Maruti,New Swift (2018),VDi AGS,Yokohama,Earth-1 E400,1,85,165/80 R 14,"3,904","3,904",3.0
+Maruti,New Swift (2018),Vxi AGS,Yokohama,Earth-1 E400,1,85,165/80 R 14,"3,904","3,904",3.0
+Maruti,New Swift (2018),Diesel ZDi +,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),Diesel ZDi +,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),Diesel ZDi +,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),ZDi AGS,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),Zxi + AGS,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),ZXi AGS,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),ZXI+,Yokohama,BluEarth AE50,1,88,185/65 R 15,"5,374","5,374",4.2
+Maruti,New Swift (2018),ZDi + AGS,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),ZDi AGS,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),Zxi + AGS,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),ZXi AGS,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),ZXI+,Yokohama,Earth-1 E400,1,88,185/65 R 15,"5,413","5,413",5.0
+Maruti,New Swift (2018),ZDi + AGS,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Yokohama,BluEarth-GT AE51,1,88,185/65 R 15,"5,594","5,594",4.29759786476869
+Maruti,New Swift (2018),Diesel ZDi +,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),ZDi + AGS,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),ZDi AGS,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),Zxi + AGS,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),ZXi AGS,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),ZXI+,Pirelli,Cinturato P6,1,88,185/65 R 15,"5,875","5,875",5.0
+Maruti,New Swift (2018),Diesel ZDi +,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),ZDi + AGS,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),ZDi AGS,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),Zxi + AGS,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),ZXi AGS,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),ZXI+,Michelin,Energy XM2,1,88,185/65 R 15,"6,671","6,671",4.0
+Maruti,New Swift (2018),Diesel ZDi +,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,New Swift (2018),ZDi + AGS,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,New Swift (2018),ZDi AGS,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,New Swift (2018),Zxi + AGS,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,New Swift (2018),ZXi AGS,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,New Swift (2018),ZXI+,Kumho,Ecowing KH27,1,88,185/65 R 15,"4,750","4,750",4.29759786476869
+Maruti,Stingray,Lxi,Apollo,AMAZER3G,1,75,155/65 R 14,"3,325","3,325",5.0
+Maruti,Stingray,Lxi,Apollo,Amazer 4G Life,1,75,155/65 R 14,"3,534","3,534",4.29759786476869
+Maruti,Stingray,Vxi,Apollo,AMAZER3G,1,75,155/65 R 14,"3,325","3,325",5.0
+Maruti,Stingray,Vxi (O),Apollo,AMAZER3G,1,75,155/65 R 14,"3,325","3,325",5.0
+Maruti,Stingray,Vxi AMT,Apollo,AMAZER3G,1,75,155/65 R 14,"3,325","3,325",5.0
+Maruti,Stingray,Vxi,Apollo,Amazer 4G Life,1,75,155/65 R 14,"3,534","3,534",4.29759786476869
+Maruti,Stingray,Vxi (O),Apollo,Amazer 4G Life,1,75,155/65 R 14,"3,534","3,534",4.29759786476869
+Maruti,Stingray,Vxi AMT,Apollo,Amazer 4G Life,1,75,155/65 R 14,"3,534","3,534",4.29759786476869
+Maruti,Stingray,Lxi,BridgeStone,Turanza T005,1,75,155/65 R 14,"3,696","3,696",4.1
+Maruti,Stingray,Lxi,BridgeStone,B-Series B290,1,75,155/65 R 14,"3,700","3,700",4.29759786476869
+Maruti,Stingray,Vxi,BridgeStone,Turanza T005,1,75,155/65 R 14,"3,696","3,696",4.1
+Maruti,Stingray,Vxi (O),BridgeStone,Turanza T005,1,75,155/65 R 14,"3,696","3,696",4.1
+Maruti,Stingray,Vxi AMT,BridgeStone,Turanza T005,1,75,155/65 R 14,"3,696","3,696",4.1
+Maruti,Stingray,Vxi,BridgeStone,B-Series B290,1,75,155/65 R 14,"3,700","3,700",4.29759786476869
+Maruti,Stingray,Vxi (O),BridgeStone,B-Series B290,1,75,155/65 R 14,"3,700","3,700",4.29759786476869
+Maruti,Stingray,Vxi AMT,BridgeStone,B-Series B290,1,75,155/65 R 14,"3,700","3,700",4.29759786476869
+Maruti,Stingray,Lxi,CEAT,Milage X3,1,75,155/65 R 14,"3,417","3,417",4.0
+Maruti,Stingray,Lxi,CEAT,FuelSmart,1,75,155/65 R 14,"3,514","3,514",4.29759786476869
+Maruti,Stingray,Vxi,CEAT,Milage X3,1,75,155/65 R 14,"3,417","3,417",4.0
+Maruti,Stingray,Vxi (O),CEAT,Milage X3,1,75,155/65 R 14,"3,417","3,417",4.0
+Maruti,Stingray,Vxi AMT,CEAT,Milage X3,1,75,155/65 R 14,"3,417","3,417",4.0
+Maruti,Stingray,Vxi,CEAT,FuelSmart,1,75,155/65 R 14,"3,514","3,514",4.29759786476869
+Maruti,Stingray,Vxi (O),CEAT,FuelSmart,1,75,155/65 R 14,"3,514","3,514",4.29759786476869
+Maruti,Stingray,Vxi AMT,CEAT,FuelSmart,1,75,155/65 R 14,"3,514","3,514",4.29759786476869
+Maruti,Stingray,Lxi,Continental,ContiComfort Contact CC5,1,75,155/65 R 14,"3,757","3,757",4.29759786476869
+Maruti,Stingray,Vxi,Continental,ContiComfort Contact CC5,1,75,155/65 R 14,"3,757","3,757",4.29759786476869
+Maruti,Stingray,Vxi (O),Continental,ContiComfort Contact CC5,1,75,155/65 R 14,"3,757","3,757",4.29759786476869
+Maruti,Stingray,Vxi AMT,Continental,ContiComfort Contact CC5,1,75,155/65 R 14,"3,757","3,757",4.29759786476869
+Maruti,Stingray,Lxi,Firestone,FR500,1,75,155/65 R 14,"2,850","2,850",4.29759786476869
+Maruti,Stingray,Vxi,Firestone,FR500,1,75,155/65 R 14,"2,850","2,850",4.29759786476869
+Maruti,Stingray,Vxi (O),Firestone,FR500,1,75,155/65 R 14,"2,850","2,850",4.29759786476869
+Maruti,Stingray,Vxi AMT,Firestone,FR500,1,75,155/65 R 14,"2,850","2,850",4.29759786476869
+Maruti,Stingray,Lxi,JKTyre,Ultima Neo,1,75,155/65 R 14,"3,496","3,496",5.0
+Maruti,Stingray,Vxi,JKTyre,Ultima Neo,1,75,155/65 R 14,"3,496","3,496",5.0
+Maruti,Stingray,Vxi (O),JKTyre,Ultima Neo,1,75,155/65 R 14,"3,496","3,496",5.0
+Maruti,Stingray,Vxi AMT,JKTyre,Ultima Neo,1,75,155/65 R 14,"3,496","3,496",5.0
+Maruti,Stingray,Lxi,GoodYear,GT3,1,75,155/65 R 14,"2,827","2,827",4.29759786476869
+Maruti,Stingray,Lxi,GoodYear,Assurance Duraplus 2,1,75,155/65 R 14,"3,138","3,138",4.29759786476869
+Maruti,Stingray,Vxi,GoodYear,GT3,1,75,155/65 R 14,"2,827","2,827",4.29759786476869
+Maruti,Stingray,Vxi (O),GoodYear,GT3,1,75,155/65 R 14,"2,827","2,827",4.29759786476869
+Maruti,Stingray,Vxi AMT,GoodYear,GT3,1,75,155/65 R 14,"2,827","2,827",4.29759786476869
+Maruti,Stingray,Vxi,GoodYear,Assurance Duraplus 2,1,75,155/65 R 14,"3,138","3,138",4.29759786476869
+Maruti,Stingray,Vxi (O),GoodYear,Assurance Duraplus 2,1,75,155/65 R 14,"3,138","3,138",4.29759786476869
+Maruti,Stingray,Vxi AMT,GoodYear,Assurance Duraplus 2,1,75,155/65 R 14,"3,138","3,138",4.29759786476869
+Maruti,Stingray,Lxi,Michelin,Energy XM2,1,75,155/65 R 14,"4,182","4,182",5.0
+Maruti,Stingray,Vxi,Michelin,Energy XM2,1,75,155/65 R 14,"4,182","4,182",5.0
+Maruti,Stingray,Vxi (O),Michelin,Energy XM2,1,75,155/65 R 14,"4,182","4,182",5.0
+Maruti,Stingray,Vxi AMT,Michelin,Energy XM2,1,75,155/65 R 14,"4,182","4,182",5.0
+Maruti,Stingray,Lxi,MRF,ZVTS,1,75,155/65 R 14,"3,186","3,186",4.0
+Maruti,Stingray,Lxi,MRF,ZLX,1,75,155/65 R 14,"3,348","3,348",3.0
+Maruti,Stingray,Vxi,MRF,ZVTS,1,75,155/65 R 14,"3,186","3,186",4.0
+Maruti,Stingray,Vxi (O),MRF,ZVTS,1,75,155/65 R 14,"3,186","3,186",4.0
+Maruti,Stingray,Vxi AMT,MRF,ZVTS,1,75,155/65 R 14,"3,186","3,186",4.0
+Maruti,Stingray,Vxi,MRF,ZLX,1,75,155/65 R 14,"3,348","3,348",3.0
+Maruti,Stingray,Vxi (O),MRF,ZLX,1,75,155/65 R 14,"3,348","3,348",3.0
+Maruti,Stingray,Vxi AMT,MRF,ZLX,1,75,155/65 R 14,"3,348","3,348",3.0
+Maruti,Stingray,Lxi,Yokohama,Earth-1 E400,1,75,155/65 R 14,"3,497","3,497",4.29759786476869
+Maruti,Stingray,Vxi,Yokohama,Earth-1 E400,1,75,155/65 R 14,"3,497","3,497",4.29759786476869
+Maruti,Stingray,Vxi (O),Yokohama,Earth-1 E400,1,75,155/65 R 14,"3,497","3,497",4.29759786476869
+Maruti,Stingray,Vxi AMT,Yokohama,Earth-1 E400,1,75,155/65 R 14,"3,497","3,497",4.29759786476869
+Maruti,Swift Deca,VDI,Apollo,Amazer 4G Life,1,85,165/80 R 14,"3,490","4,319",4.5
+Maruti,Swift Deca,VXI,Apollo,Amazer 4G Life,1,85,165/80 R 14,"3,490","4,319",4.5
+Maruti,Swift Deca,VDI,BridgeStone,Ecopia EP150,1,85,165/80 R 14,"4,150","4,150",5.0
+Maruti,Swift Deca,VDI,BridgeStone,B-Series B290,1,85,165/80 R 14,"4,250","4,250",3.7
+Maruti,Swift Deca,VDI,BridgeStone,Turanza T005,1,85,165/80 R 14,"4,272","4,272",3.8
+Maruti,Swift Deca,VDI,BridgeStone,S-Series S248,1,85,165/80 R 14,"4,300","4,300",5.0
+Maruti,Swift Deca,VXI,BridgeStone,Ecopia EP150,1,85,165/80 R 14,"4,150","4,150",5.0
+Maruti,Swift Deca,VXI,BridgeStone,B-Series B290,1,85,165/80 R 14,"4,250","4,250",3.7
+Maruti,Swift Deca,VXI,BridgeStone,Turanza T005,1,85,165/80 R 14,"4,272","4,272",3.8
+Maruti,Swift Deca,VXI,BridgeStone,S-Series S248,1,85,165/80 R 14,"4,300","4,300",5.0
+Maruti,Swift Deca,VDI,CEAT,Milage X3,1,85,165/80 R 14,"3,406","3,406",4.0
+Maruti,Swift Deca,VDI,CEAT,FuelSmart,1,85,165/80 R 14,"3,617","3,617",4.6
+Maruti,Swift Deca,VDI,CEAT,Milage X3,0,85,165/80 R 14,"3,637","3,637",5.0
+Maruti,Swift Deca,VXI,CEAT,Milage X3,1,85,165/80 R 14,"3,406","3,406",4.0
+Maruti,Swift Deca,VXI,CEAT,FuelSmart,1,85,165/80 R 14,"3,617","3,617",4.6
+Maruti,Swift Deca,VXI,CEAT,Milage X3,0,85,165/80 R 14,"3,637","3,637",5.0
+Maruti,Swift Deca,VDI,Continental,Comfort Contact CC5,1,85,165/80 R 14,"4,086","4,086",3.9
+Maruti,Swift Deca,VDI,Continental,Comfort Contact CC6,1,85,165/80 R 14,"4,244","4,244",4.29759786476869
+Maruti,Swift Deca,VXI,Continental,Comfort Contact CC5,1,85,165/80 R 14,"4,086","4,086",3.9
+Maruti,Swift Deca,VXI,Continental,Comfort Contact CC6,1,85,165/80 R 14,"4,244","4,244",4.29759786476869
+Maruti,Swift Deca,VDI,Falken,Sincera845,1,85,165/80 R 14,"4,184","4,184",4.29759786476869
+Maruti,Swift Deca,VXI,Falken,Sincera845,1,85,165/80 R 14,"4,184","4,184",4.29759786476869
+Maruti,Swift Deca,VDI,Firestone,FR500,1,85,165/80 R 14,"3,135","3,135",4.29759786476869
+Maruti,Swift Deca,VXI,Firestone,FR500,1,85,165/80 R 14,"3,135","3,135",4.29759786476869
+Maruti,Swift Deca,VDI,GoodYear,Assurance Duraplus 2,1,85,165/80 R 14,"3,025","3,025",4.2
+Maruti,Swift Deca,VDI,GoodYear,Duraplus,1,85,165/80 R 14,"3,423","3,423",3.0
+Maruti,Swift Deca,VDI,GoodYear,Assurance Duraplus,1,85,165/80 R 14,"3,464","3,464",4.29759786476869
+Maruti,Swift Deca,VXI,GoodYear,Assurance Duraplus 2,1,85,165/80 R 14,"3,025","3,025",4.2
+Maruti,Swift Deca,VXI,GoodYear,Duraplus,1,85,165/80 R 14,"3,423","3,423",3.0
+Maruti,Swift Deca,VXI,GoodYear,Assurance Duraplus,1,85,165/80 R 14,"3,464","3,464",4.29759786476869
+Maruti,Swift Deca,VDI,JKTyre,Tornado,1,85,165/80 R 14,"3,227","3,227",4.29759786476869
+Maruti,Swift Deca,VDI,JKTyre,Taximaxx,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Swift Deca,VDI,JKTyre,Elanzo Touring,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Swift Deca,VDI,JKTyre,UX Royale,1,85,165/80 R 14,"3,420","3,420",4.29759786476869
+Maruti,Swift Deca,VXI,JKTyre,Tornado,1,85,165/80 R 14,"3,227","3,227",4.29759786476869
+Maruti,Swift Deca,VXI,JKTyre,Taximaxx,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Swift Deca,VXI,JKTyre,Elanzo Touring,1,85,165/80 R 14,"3,385","3,385",4.29759786476869
+Maruti,Swift Deca,VXI,JKTyre,UX Royale,1,85,165/80 R 14,"3,420","3,420",4.29759786476869
+Maruti,Swift Deca,VDI,MRF,ZTX,1,85,165/80 R 14,"3,995","3,995",5.0
+Maruti,Swift Deca,VDI,MRF,ZV2K,1,85,165/80 R 14,"4,014","4,014",4.0
+Maruti,Swift Deca,VDI,MRF,ZLX,1,85,165/80 R 14,"4,038","4,038",4.0
+Maruti,Swift Deca,VXI,MRF,ZTX,1,85,165/80 R 14,"3,995","3,995",5.0
+Maruti,Swift Deca,VXI,MRF,ZV2K,1,85,165/80 R 14,"4,014","4,014",4.0
+Maruti,Swift Deca,VXI,MRF,ZLX,1,85,165/80 R 14,"4,038","4,038",4.0
+Maruti,Swift Deca,VDI,UltraMile,UM 551,1,85,165/80 R 14,"4,045","4,045",3.0
+Maruti,Swift Deca,VXI,UltraMile,UM 551,1,85,165/80 R 14,"4,045","4,045",3.0
+Maruti,Swift Deca,VDI,Yokohama,Earth-1 E400,1,85,165/80 R 14,"3,904","3,904",3.0
+Maruti,Swift Deca,VXI,Yokohama,Earth-1 E400,1,85,165/80 R 14,"3,904","3,904",3.0
